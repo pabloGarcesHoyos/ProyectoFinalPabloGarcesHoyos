@@ -1,0 +1,17 @@
+# Virtual envs
+venv/
+venv311/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Streamlit local config/state
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
